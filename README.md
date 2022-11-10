@@ -1,1 +1,1 @@
-# learning-resources---RUS-
+# learning-resources-RUS-

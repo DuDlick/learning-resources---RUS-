@@ -2,7 +2,7 @@
 
 <!-- Ansible -->
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible"  alt="Ansible" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible"  alt="Ansible" width="80" height="80"/>&nbsp;
 </div>
 <ul>
   <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-20-04-ru">Установка и настройка ansible на Ubuntu</a></li><br>
@@ -20,7 +20,7 @@
 
 <!-- Git -->
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="75" height="75"/>&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp
 </div>
 
 <ul>
@@ -31,7 +31,7 @@
 
 <!-- Docker -->
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="75" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="80" height="80"/>&nbsp;
 </div>
 
 <ul>
@@ -44,6 +44,6 @@
   <li><a href="https://spec-zone.ru/docker~18/compose/compose-file/index">Docker документация [RUS]</a></li><br>
   <li><a href="https://devops.org.ru/dockercompose-summary">Шпаргалка по Docker-compose</a></li><br>
   <li><a href="https://linux-notes.org/ispol-zovanie-staticheskogo-ip-adresa-v-docker-compose/">Использование статического IP в docker-compose</a></li><br>
-  <li><a href="https://highload.today/docker-compose/#2">Руководство по Docker Compose</a></li><br> #2
+  <li><a href="https://highload.today/docker-compose/#2">Руководство по Docker Compose</a>#2</li><br> 
 </ul>
 

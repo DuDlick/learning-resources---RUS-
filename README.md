@@ -47,3 +47,27 @@
   <li><a href="https://highload.today/docker-compose/#2">Руководство по Docker Compose</a>#2</li><br> 
 </ul>
 
+<!-- MySQL -->
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+</div>
+
+<ul>
+  <li><a href="https://metanit.com/sql/mysql/">Руководство по MySQL</a></li><br>
+  <li><a href="https://learndb.ru/courses">Практикум (есть подписка)</a></li><br>
+  <li><a href="https://dev.mysql.com/doc/refman/8.0/en/tutorial.html">Официальная документация</a></li><br>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -58,7 +58,31 @@
   <li><a href="https://dev.mysql.com/doc/refman/8.0/en/tutorial.html">Официальная документация</a></li><br>
 </ul>
 
+<!-- Vagrant -->
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="Vagrant"  alt="MySQL" width="80" height="80"/>&nbsp;
+</div>
 
+<ul>
+  <li><a href="https://wiki.merionet.ru/servernye-resheniya/29/vagrant-ustanovka-i-nastrojka/">Установка и настройка</a></li><br>
+  <li><a href="https://runebook.dev/ru/docs/vagrant/provisioning/ansible_local">Vagrant + ansible</a></li><br>
+  <li><a href="https://help.ubuntu.ru/wiki/vagrant">Русская документация</a></li><br>
+</ul>
+
+<!-- Ubuntu -->
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="50" height="50"/>&nbsp;
+</div>
+
+<ul>
+  <li><a href="https://losst.pro/kak-polzovatsya-tekstovym-redaktorom-vim">Как использовать Vim</a></li><br>
+  <li><a href="https://losst.pro/administrirovanie-linux">Администрирование Linux</a></li><br>
+  <li><a href="https://sadminblog.ru/main-terminal-commands-linux">Основные команды Linux</a></li><br>
+  <li><a href="https://systemweakness.com/tools-for-linux-system-administrator-6613b4560805">Инструменты для администрирования</a></li><br>
+  <li><a href="https://habr.com/ru/post/47163/">Основы Bash</a></li><br>
+  <li><a href="https://kamaok.org.ua/?p=1540">Полезные команды Linux</a></li><br>
+  <li><a href="https://bool.dev/blog/detail/roadmap-dlya-devops-inzhenerov">RoadMap DevOps</a></li><br>
+</ul>
 
 
 

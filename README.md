@@ -2,7 +2,7 @@
 
 <!-- Ansible -->
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible"  alt="Ansible" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible"  alt="Ansible" width="90" height="90"/>&nbsp;
 </div>
 <ul>
   <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-20-04-ru">Установка и настройка ansible на Ubuntu</a></li><br>
@@ -20,7 +20,7 @@
 
 <!-- Git -->
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="90" height="90"/>&nbsp
 </div>
 
 <ul>
@@ -31,7 +31,7 @@
 
 <!-- Docker -->
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="90" height="90"/>&nbsp;
 </div>
 
 <ul>
@@ -49,7 +49,7 @@
 
 <!-- MySQL -->
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="90" height="90"/>&nbsp;
 </div>
 
 <ul>
@@ -60,7 +60,7 @@
 
 <!-- Vagrant -->
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="Vagrant"  alt="MySQL" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="Vagrant"  alt="MySQL" width="90" height="90"/>&nbsp;
 </div>
 
 <ul>
@@ -71,7 +71,7 @@
 
 <!-- Ubuntu -->
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="90" height="90"/>&nbsp;
 </div>
 
 <ul>

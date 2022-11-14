@@ -35,6 +35,8 @@
 </div>
 
 <ul>
+  <li><a href="https://eternalhost.net/base/vps-vds/docker-compose-yml">Инструменты Docker compose для начинающего разработчика</a></li><br>
+  <li><a href="https://ivan-shamaev.ru/docker-compose-tutorial-container-image-install/#_Dockerfile">Docker и Docker-Compose Tutorial</a></li><br>
   <li><a href="https://tproger.ru/translations/docker-instuction/">Основные инструкции Docker</a></li><br>
   <li><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-ru">Установка и использование Docker в Ubuntu</a></li><br>
   <li><a href="https://login.docker.com/u/login/identifier?state=hKFo2SBMZloxajZWaXhROV9CZFktWHVhSVpaNDhvZXZhdzlLRKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIERqeERTZWdHT3NlNVVaLU9RUDdUcEs5T1lURVNCbW9so2NpZNkgbHZlOUdHbDhKdFNVcm5lUTFFVnVDMGxiakhkaTluYjk">DockerHub</a></li><br>
